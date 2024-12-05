@@ -1,0 +1,2 @@
+-I have used the google word2vec 300 dimesnions pretrained model to get the initial embeddings for the elmo model.
+-the pretrained bilstm is here-https://drive.google.com/file/d/1oSKMOWQr2ZGnGO5YA3KGiXs4-_4HdqH2/view?usp=drive_link
